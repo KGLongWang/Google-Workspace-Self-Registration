@@ -1,4 +1,4 @@
-name = "Google-Workspace-self-registration"
+name = "google-workspace-self-registration"
 main = "worker.js"
 compatibility_date = "2025-05-20" # 示例：请替换为一个对您来说有意义的近期日期
 
