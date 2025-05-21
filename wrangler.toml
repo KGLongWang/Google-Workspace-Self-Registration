@@ -1,0 +1,8 @@
+name = "Google-Workspace-self-registration"
+main = "worker.js"
+compatibility_date = "2025-05-20" # 示例：请替换为一个对您来说有意义的近期日期
+
+# 如果您的代码中没有明确使用 Node.js 核心模块 (如 fs, path, process 等),
+# 您可能不需要下面的 compatibility_flags。
+# 先尝试不加，如果部署或运行时遇到与 Node.js API 相关的错误，再考虑添加。
+# compatibility_flags = ["nodejs_compat"]
